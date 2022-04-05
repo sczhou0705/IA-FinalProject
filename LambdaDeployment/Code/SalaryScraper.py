@@ -83,7 +83,7 @@ def main(event=None, context=None):
     df = pd.DataFrame(salary_data,columns = [['Title','Location', 'Description', 'nTile10', 'nTile25', 'nTile50', 'nTile75', 'nTile90']])
     ###LOAD THE FILE INTO S3####
     # prepare csv file name   
-    pathname = 'ia-final-deployment/'#specify location of s3:/{my-bucket}/
+    pathname = 'ia-final2022-csv/'#specify location of s3:/{my-bucket}/
     filenames = f"{pathname}salary_data.csv" #name of the filepath and csv file
 
     #encoding must be adjusted to accommodate abnormal characters. Use s3fs to write to S3 bucket

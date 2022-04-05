@@ -22,7 +22,7 @@ def main(event = None, context = None):
     df = pd.DataFrame(values,columns = [["Full Name", "Location", "Most Recent Company", 'Job Title', 'Company Url']])
     ###LOAD THE FILE INTO S3####
     # prepare csv file name   
-    pathname = 'ia-final-deployment/'#specify location of s3:/{my-bucket}/
+    pathname = 'ia-final2022-csv/'#specify location of s3:/{my-bucket}/
     filenames = f"{pathname}linkedIn_info.csv" #name of the filepath and csv file
 
     #encoding must be adjusted to accommodate abnormal characters. Use s3fs to write to S3 bucket

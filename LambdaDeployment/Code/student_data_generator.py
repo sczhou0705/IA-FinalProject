@@ -218,7 +218,7 @@ def main(event=None, context=None):
     print("Start running DummyStudentDataGenerator")
                 
     df = get_dummy_data()
-    pathname = 'ia-final-deployment/'#specify location of s3:/{my-bucket}/
+    pathname = 'ia-final2022-csv/'#specify location of s3:/{my-bucket}/
     filenames = f"{pathname}student_data.csv" #name of the filepath and csv file
 
     print("Start adding student data to csv")
