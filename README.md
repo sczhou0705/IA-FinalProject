@@ -1,3 +1,3 @@
 # IA-FinalProject
 
-![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/IA-Final_Project_AWS_Lucid_Chart%20(1).png)
+![image](https://user-images.githubusercontent.com/73674274/168380384-e5079c8c-11a7-4662-bb78-1bda4d7334dd.png)
