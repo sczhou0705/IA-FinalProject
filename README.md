@@ -22,6 +22,6 @@ Step 4: Upload datasets into MYSQL through AWS RDS and glue services.
 
 Step 5: Connect to Tableau and do visualization analysis.
 
-
-
+Challenge and Solution:
+![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/Challenge.png)
 
