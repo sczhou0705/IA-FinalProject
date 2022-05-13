@@ -7,7 +7,7 @@ In the final project, we utilize AWS lambda, s3 bucket, Glue, RDS, Neptune servi
 
 ### Step 1 : Design AWS infrastructure
 
-![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/diagram_updated.png)
+![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/IA-Final_Project_AWS_Lucid_Chart%20(3).png)
 
 ### Step 2: Create student dummy dataset and web scrapping linkedIn and Salary
 
