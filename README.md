@@ -12,7 +12,8 @@ Step 1 : Design AWS infrastructure
 Step 2: Create student dummy dataset and web scrapping linkedIn and Salary
 
 Step 3: Construct Neptune graph databases.
-Gremlin csv Example: ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/Neptune/Gremlin%20csv/node%20(final-version).csv)
+Gremlin csv Example: ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/csvGremlin.png)
+
 Network graph Example : 
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/network%20graph%20sample.png)
 
