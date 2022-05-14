@@ -5,23 +5,24 @@ The need for communicating and maintaining a secure exclusive, and private socia
 
 In the final project, we utilize AWS lambda, s3 bucket, Glue, RDS, Neptune services, etc. 
 
-Step 1 : Design AWS infrastructure
+### Step 1 : Design AWS infrastructure
 
-![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/diagram_updated.png)
+![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/IA-Final_Project_AWS_Lucid_Chart%20(3).png)
 
-Step 2: Create student dummy dataset and web scrapping linkedIn and Salary
+### Step 2: Create student dummy dataset and web scrapping linkedIn and Salary
 
-Step 3: Construct Neptune graph databases.
-Gremlin csv Example: ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/Neptune/Gremlin%20csv/node%20(final-version).csv)
+### Step 3: Construct Neptune graph databases.
+Gremlin csv Example: ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/csvGremlin.png)
+
 Network graph Example : 
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/network%20graph%20sample.png)
 
-Step 4: Upload datasets into MYSQL through AWS RDS and glue services.
+### Step 4: Upload datasets into MYSQL through AWS RDS and glue services.
 !! Neptune can not directly be connected with Tableau, so we use RDS as a bridge to connect Tableau.
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/schema.png)
 
-Step 5: Connect to Tableau and do visualization analysis.
+### Step 5: Connect to Tableau and do visualization analysis.
 
-Challenge and Solution:
+### Challenge and Solution:
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/Challenge.png)
 
