@@ -29,6 +29,5 @@ Neptune can not directly be connected with Tableau, so we use RDS as a bridge to
 
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/Yeshiva_University_Katz_School_Alumni_Data_Visualization.png)
 
-### Challenge and Solution:
+### Challenges and Solutions:
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/Challenge.png)
-
