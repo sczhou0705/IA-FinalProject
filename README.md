@@ -18,7 +18,7 @@ Network graph Example :
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/network%20graph%20sample.png)
 
 ### Step 4: Upload datasets into MYSQL through AWS RDS and glue services.
-!! Neptune can not directly be connected with Tableau, so we use RDS as a bridge to connect Tableau.
+Neptune can not directly be connected with Tableau, so we use RDS as a bridge to connect Tableau.
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/schema.png)
 
 ### Step 5: Connect to Tableau and do visualization analysis.
