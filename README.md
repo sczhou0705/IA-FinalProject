@@ -10,12 +10,12 @@ In the final project, we utilize AWS lambda, s3 bucket, Glue, RDS, Neptune servi
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/IA-Final_Project_AWS_Lucid_Chart%20(3).png)
 
 ### Step 2: Create alumni dummy dataset, web scrapping data from LinkedIn and Salary.com
-![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/alumni-data.png)<br>
-![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/salary_com-data.png)
-![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/linkedin-data.png)<br>
+Alumni dummy dataset:<br>![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/alumni-data.png)<br>
+Web scrapping data from Salary.com:<br>![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/salary_com-data.png)
+Web scrapping data from LinkedIn:<br>![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/linkedin-data.png)<br>
 
 ### Step 3: Construct Neptune graph database
-Gremlin csv Example: ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/csvGremlin.png)
+Gremlin csv Example:<br> ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/csvGremlin.png)
 
 Network graph Example : 
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/network%20graph%20sample.png)
