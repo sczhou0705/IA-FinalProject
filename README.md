@@ -25,7 +25,9 @@ Neptune can not directly be connected with Tableau, so we use RDS as a bridge to
 
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/schema.png)
 
-### Step 5: Connect to Tableau and do visualization analysis
+### Step 5: Connect to Tableau and Tableau Dashboard
+
+![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/Yeshiva_University_Katz_School_Alumni_Data_Visualization.png)
 
 ### Challenge and Solution:
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/Challenge.png)
