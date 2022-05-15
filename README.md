@@ -17,7 +17,7 @@ Web scrapping data from LinkedIn:<br>![image](https://github.com/sczhou0705/IA-F
 ### Step 3: Construct Neptune graph database
 Gremlin csv Example:<br> ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/csvGremlin.png)
 
-Network graph Example : 
+Network graph Example:<br> 
 ![image](https://github.com/sczhou0705/IA-FinalProject-YUconnect/blob/main/image/network%20graph%20sample.png)
 
 ### Step 4: Upload datasets into MYSQL through AWS RDS and glue services
